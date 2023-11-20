@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 130vh;
+    background-image: url('imagenes/desktop-wallpaper-martial-arts-group-background-karate.jpg');
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .invitation {
+    max-width: 1200px;
+    padding: 100px;
+    height: 160vh;
+    background-color: rgba(0, 0, 0, 0,); /* Fondo semi-transparente */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+
+  .content {
+    font-size: 26px;
+    text-align: center;
+    color: #333;
+  }
+  
+  .photos {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+    }
+  
+  .photos img {
+    width: 20%;
+    border-radius: 8px;
+  }
+  
+  .text {
+    font-size: 20px;
+    background-color: #3498db;
+    color: #020202;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+ 
+  
+  /* Estilos para el botón */
+.map-button {
+    display: inline-block;
+    padding: 15px 25px;
+    background-color: #18148b;
+    color: #faf5f5;
+    text-decoration: none; /* Eliminar subrayado del enlace */
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .map-button:hover {
+    background-color: #f55b08;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150vh;
+  }
+  
+  .text-container {
+    background-color: #3498db; /* Color de fondo */
+    color: #fff; /* Color del texto */
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center; /* Centrar el texto */
+  }
+/* Estilos para la imagen del ícono de red social */
+img {
+    width: 24px; /* Tamaño del ícono */
+    height: auto;
+  }
