@@ -12,7 +12,7 @@ body {
   }
   
   .invitation {
-    max-width: 1200px;
+    max-width: 1000px;
     padding: 100px;
     height: 160vh;
     background-color: rgba(0, 0, 0, 0,); /* Fondo semi-transparente */
